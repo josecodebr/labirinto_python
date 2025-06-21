@@ -12,9 +12,13 @@ Dados do jogo, icones<br>
 4 Chave coletavel: "C"<br>
 5 Porta para sair "D"<br>
 
-
 Teclas direcao movimento
 W Frente, A Direita, S Baixo, D Esquerda <br>
 
 Missão
 Você '☺' deve ceguir pelo labirinto ate pegar a chave 'C', dedois va para a porta 'D' para conseguir sir do jogo
+
+Obstáculos
+Voce nao pode bater a cabeca na parede '▒', se voce perde corações '♥'
+Caso perca muito coração voce pode pegar mais no no topo do labirinto, porem nao bata mais vezes se nao voce pode perder mais
+caso consiga voce ganhara mais vida para continuar jogando.
